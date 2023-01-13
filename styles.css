@@ -1,0 +1,18 @@
+/* styles.css */
+
+body {
+    color: black;
+    background-color: #99ff99;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.corpo {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
